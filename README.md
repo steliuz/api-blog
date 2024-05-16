@@ -1,4 +1,4 @@
-# RESTful API Node Typescript Server Boilerplate
+# RESTful API Node Typescript Server
 
 ## Requisitos
 

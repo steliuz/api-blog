@@ -1,4 +1,4 @@
-# RESTful API Node Typescript Server Boilerplate
+# RESTful API Node Typescript Server
 
 ## Requisitos
 
@@ -10,7 +10,7 @@
 1. Clona el repositorio:
 
 ```bash
-git clone --depth 1 https://github.com/user/node-express-typescrypt-examn.git
+git clone --depth 1 https://github.com/steliuz/api-blog.git
 cd node-express-typescrypt-examn
 ```
 
